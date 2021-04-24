@@ -1,0 +1,15 @@
+Bianco		Blanco
+Nero		Negro
+Blu		Blu o Azul obscuro
+Azzurro		Azul
+Rosso		Rojo
+Marrone		Marron
+Ciano		Cian
+Verde		Verde
+Grigio		Gris
+Magenta		Magenta
+Arancione	Anaranjado
+Rosa		Rosado
+Viola		Violeta
+Giallo		Amarillo
+Argento		plata

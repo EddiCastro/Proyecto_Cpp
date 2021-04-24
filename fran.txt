@@ -1,0 +1,11 @@
+le ballon	El balón
+des lunettes	Las gafas
+une bière	Una cerveza
+un vélo		Una bicicleta
+de l’argent	El dinero
+une voiture	Un coche
+un collège	Un compañero
+des enfants	Niños
+un chien	Un perro
+un film		Un a pelicula
+le weekend	Fin de semana
